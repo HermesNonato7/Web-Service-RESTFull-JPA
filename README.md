@@ -9,7 +9,19 @@
 * Configurações dos banco de dados: PostgreSQL e H2 DataBase;
 * Operações de CRUD, utilizando o Postman.
 
+## Dependências e Tecnologias utilizadas:
+
+* Spring Boot Starter Web;
+* Spring Boot Starter Test;
+* Spring Boot Maven Plugin;
+* Annotations - org.jetbenas
+* PostgreSQL
+
+* Optei por não utilizar o H2 Database, para poder treinar a configuração de bancos de dados de produção, para o restante do curso e carreira.
+
 ## Abaixo fotos da API totalmente funcional e com todos os endpoints:
+
+
 
 
 
