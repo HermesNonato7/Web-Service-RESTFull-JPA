@@ -5,7 +5,7 @@
 * Neste Projeto desenvolvi código com padrão Singleton, DTO, S-O-L-I-D e Clean Code. E aprendi:
 * Spring Initalizr, annotation, endPoints;
 * Como organizar pastas e classes;
-* Programação Orinetada a Objetos na prática no projeto de Web Service;
+* Programação Orientada a Objetos na prática no projeto de Web Service;
 * Configurações dos banco de dados: PostgreSQL e H2 DataBase;
 * Operações de CRUD, utilizando o Postman.
 
