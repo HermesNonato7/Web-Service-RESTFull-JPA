@@ -38,7 +38,7 @@ public class Customer implements Serializable {
     private String address;
 
     @JsonIgnore
-    @OneToMany(mappedBy = "customer")
+    @OneToMany(mappedBy = "customer") // Acrescentando , fetch = FetchType.EAGER se tora EAGER Loading e carrega as dependencias, o pedido completo do customer
     private List<Request> requests = new ArrayList<>();
 
     public Customer() {
