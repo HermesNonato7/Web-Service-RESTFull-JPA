@@ -11,6 +11,8 @@
 
 ## Dependências e Tecnologias utilizadas:
 
+* JDK 17
+* Spring Boot Framework versão 3.2.1;
 * Spring Boot Starter Web;
 * Spring Boot Starter Test;
 * Spring Boot Maven Plugin;
