@@ -21,10 +21,4 @@
 
 * Optei por não utilizar o H2 Database, para poder treinar a configuração de bancos de dados de produção, para o restante do curso e carreira.
 
-## Abaixo fotos da API totalmente funcional e com todos os endpoints:
-
-
-
-
-
-
+## A 'images' contém as fotos do arquivo application.propertes para configuração do BD, bem como fotos dos dados persistidos e retornos do Postman.
