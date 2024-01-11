@@ -8,6 +8,7 @@
 * Programação Orientada a Objetos na prática no projeto de Web Service;
 * Configurações dos banco de dados: PostgreSQL e H2 DataBase;
 * Operações de CRUD, utilizando o Postman.
+* Lazy e Eager Loading
 
 ## Dependências e Tecnologias utilizadas:
 
@@ -24,6 +25,7 @@
 #### Observação: O arquivo 'images' contém as fotos do arquivo application.properties para configuração do BD, bem como fotos dos dados persistidos e retornos do Postman.
 
 #### Anexei o arquivo 'script.sql' com os comandos para manipulação dos dados no BD, para operações de DDL, DML e operações avançadas diversas.
+#### Na pasta 'collection,json-Postman', adicionaei o arquivo Json do Postman para import dos testes.
 
 Pretendo incluir a documentação com o Swagger, a segurança com web tokens JWT, Frontend com Angular e TypeScript, Docker, mensageria com RabbitMQ e vou analisar em qual provedor de hospedagem na Nuvem vou utilizar.
 
